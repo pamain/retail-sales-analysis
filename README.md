@@ -23,6 +23,9 @@ on margins. Built using Python, SQL, Excel, and Power BI.
   on $207K in revenue, driven by heavy discounting on high-ticket items.
 - **Q4 (Sep–Dec) consistently drives the highest revenue months** across
   all four years, useful for inventory and staffing planning.
+## Dashboard
+
+![Power BI Dashboard](dashboard.png)
 
 ## Files
 - `01_clean_data.py` — data cleaning & feature engineering
